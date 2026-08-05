@@ -1,4 +1,4 @@
-# 🛡️ Security Support Information System (SSIS)
+#  Security Support Information System (SSIS)
 
 A Business Intelligence and Decision Support System developed to demonstrate how data analytics can improve operational visibility and decision-making within the private security industry.
 
