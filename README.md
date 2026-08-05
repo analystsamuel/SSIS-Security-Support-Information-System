@@ -1,4 +1,4 @@
-# Security Support Information System (SSIS)
+#  Security Support Information System (SSIS)
 
 A Business Intelligence and Decision Support System developed to demonstrate how data analytics can improve operational visibility and decision-making within the private security industry.
 
@@ -35,9 +35,9 @@ The project followed a complete end-to-end data analytics workflow.
 
 The project began with three operational datasets obtained from Kaggle.
 
-- `employee_df.csv`
-- `incident_df.csv`
-- `site_df.csv`
+- [`employee_df.csv`](employee_df.csv)
+- [`incident_df.csv`](incident_df.csv)
+- [`site_df.csv`](site_df.csv)
 
 These datasets served as the foundation for the system.
 
@@ -47,7 +47,7 @@ Using Python and Pandas, the raw datasets were cleaned, transformed, and normali
 
 The notebook:
 
-`SSIS.ipynb`
+[`SSIS.ipynb`](SSIS.ipynb)
 
 was used to:
 
@@ -59,13 +59,13 @@ was used to:
 
 The processed datasets include:
 
-- `employee.csv`
-- `attendance.csv`
-- `employee assignment.csv`
-- `incident.csv`
-- `contract.csv`
-- `client.csv`
-- `site.csv`
+- [`employee.csv`](employee.csv)
+- [`attendance.csv`](attendance.csv)
+- [`employee assignment.csv`](employee_assignment.csv)
+- [`incident.csv`](incident.csv)
+- [`contract.csv`](contract.csv)
+- [`client.csv`](client.csv)
+- [`site.csv`](site.csv)
 
 ### 3. Database Development
 
@@ -73,7 +73,7 @@ The processed datasets were imported into a MySQL database.
 
 The SQL script:
 
-`ssis_database_schema.sql`
+[`ssis_database_schema.sql`](ssis_database_schema.sql)
 
 contains the database schema, table creation statements, relationships, and other SQL operations required to prepare the database for reporting.
 
@@ -83,7 +83,7 @@ The SQL database was connected to Power BI to create an interactive reporting so
 
 The Power BI project:
 
-`SSIS.pbix`
+[`SSIS.pbix`](SSIS.pbix)
 
 contains the complete semantic model, DAX measures, KPIs, and dashboards used to visualize business performance.
 
@@ -111,12 +111,12 @@ Provides insights into contracts, clients, contract values, commercial performan
 
 | File | Description |
 |------|-------------|
-| `SSIS.pbix` | Interactive Power BI dashboard |
-| `SSIS.ipynb` | Python notebook used for data cleaning and transformation |
-| `ssis_database_schema.sql` | SQL database schema and database setup script |
-| `employee_df.csv` | Raw employee dataset |
-| `incident_df.csv` | Raw incident dataset |
-| `site_df.csv` | Raw site dataset |
+| [`SSIS.pbix`](SSIS.pbix) | Interactive Power BI dashboard |
+| [`SSIS.ipynb`](SSIS.ipynb) | Python notebook used for data cleaning and transformation |
+| [`ssis_database_schema.sql`](ssis_database_schema.sql) | SQL database schema and database setup script |
+| [`employee_df.csv`](employee_df.csv) | Raw employee dataset |
+| [`incident_df.csv`](incident_df.csv) | Raw incident dataset |
+| [`site_df.csv`](site_df.csv) | Raw site dataset |
 | Processed CSV files | Normalized datasets used to build the SQL database |
 
 ---
@@ -152,12 +152,13 @@ Provides insights into contracts, clients, contract values, commercial performan
 
 # Dashboard Preview
 
-> Dashboard screenshots are included in this repository.
+> Dashboard screenshots and visual previews from your project build:
 
-- Executive Overview
-- Workforce Analytics
-- Operations Analytics
-- Commercial Analytics
+- **Executive Overview & Navigation UI:**  
+  ![Executive Overview](image_db54c2.jpg)
+
+- **Power BI Environment & Project Structure:**  
+  ![Project Structure](image_31d5eb.png)
 
 ---
 
