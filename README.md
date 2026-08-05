@@ -166,9 +166,6 @@ Provides insights into contracts, clients, contract values, commercial performan
 - **Commercial Analytics Dashboard:**  
   ![Commercial Analytics](Screenshot%20(479).png)
 
-- **Power BI Environment & Project Architecture:**  
-  ![Project Structure](image_31d5eb.png)
-
 ---
 
 # Project Outcome
