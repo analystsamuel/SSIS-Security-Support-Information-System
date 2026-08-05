@@ -1,4 +1,4 @@
-#  Security Support Information System (SSIS)
+# 🛡️ Security Support Information System (SSIS)
 
 A Business Intelligence and Decision Support System developed to demonstrate how data analytics can improve operational visibility and decision-making within the private security industry.
 
@@ -152,12 +152,21 @@ Provides insights into contracts, clients, contract values, commercial performan
 
 # Dashboard Preview
 
-> Dashboard screenshots and visual previews from your project build:
+> Interactive dashboard modules built for the Security Support Information System:
 
-- **Executive Overview & Navigation UI:**  
-  ![Executive Overview](image_db54c2.jpg)
+- **Executive Overview Dashboard:**  
+  ![Executive Overview](Screenshot%20(476).png)
 
-- **Power BI Environment & Project Structure:**  
+- **Workforce Analytics Dashboard:**  
+  ![Workforce Analytics](Screenshot%20(477).png)
+
+- **Operations Analytics Dashboard:**  
+  ![Operations Analytics](Screenshot%20(478).png)
+
+- **Commercial Analytics Dashboard:**  
+  ![Commercial Analytics](Screenshot%20(479).png)
+
+- **Power BI Environment & Project Architecture:**  
   ![Project Structure](image_31d5eb.png)
 
 ---
