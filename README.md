@@ -176,8 +176,3 @@ The project showcases the complete analytics lifecycle, from raw data acquisitio
 
 ---
 
-## Author
-
-**Samuel King'ori**
-
-Aspiring Data Analyst | SQL | Python | Power BI | Business Intelligence
