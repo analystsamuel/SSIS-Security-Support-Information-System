@@ -154,18 +154,19 @@ Provides insights into contracts, clients, contract values, commercial performan
 
 > Interactive dashboard modules built for the Security Support Information System:
 
-- **Executive Overview Dashboard:**  
-  ![Executive Overview](Screenshot%20(476).png)
+## SSIS Dashboards
 
-- **Workforce Analytics Dashboard:**  
-  ![Workforce Analytics](Screenshot%20(477).png)
+### Executive Overview Dashboard
+![Executive Overview](./SSIS%20overview.png)
 
-- **Operations Analytics Dashboard:**  
-  ![Operations Analytics](Screenshot%20(478).png)
+### Workforce Analytics Dashboard
+![Workforce Analytics](./SSIS%20workforce.png)
 
-- **Commercial Analytics Dashboard:**  
-  ![Commercial Analytics](Screenshot%20(479).png)
+### Operations Analytics Dashboard
+![Operations Analytics](./SSIS%20operations.png)
 
+### Commercial Analytics Dashboard
+![Commercial Analytics](./SSIS%20commercial.png)
 ---
 
 # Project Outcome
