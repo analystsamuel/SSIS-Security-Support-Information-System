@@ -1,4 +1,4 @@
-#  Security Support Information System (SSIS)
+# Security Support Information System (SSIS)
 
 A Business Intelligence and Decision Support System developed to demonstrate how data analytics can improve operational visibility and decision-making within the private security industry.
 
@@ -61,7 +61,7 @@ The processed datasets include:
 
 - [`employee.csv`](employee.csv)
 - [`attendance.csv`](attendance.csv)
-- [`employee assignment.csv`](employee_assignment.csv)
+- [`employee assignment.csv`](employee%20assignment.csv)
 - [`incident.csv`](incident.csv)
 - [`contract.csv`](contract.csv)
 - [`client.csv`](client.csv)
@@ -94,15 +94,19 @@ contains the complete semantic model, DAX measures, KPIs, and dashboards used to
 The system consists of four interactive dashboards:
 
 ### Executive Overview
+
 Provides executives with an overall summary of organizational performance through key business indicators.
 
 ### Workforce Analytics
+
 Analyzes employee information, attendance, assignments, employment status, and workforce distribution.
 
 ### Operations Analytics
+
 Monitors security incidents, response performance, incident categories, and operational trends across security sites.
 
 ### Commercial Analytics
+
 Provides insights into contracts, clients, contract values, commercial performance, and contract status.
 
 ---
@@ -152,21 +156,26 @@ Provides insights into contracts, clients, contract values, commercial performan
 
 # Dashboard Preview
 
-> Interactive dashboard modules built for the Security Support Information System:
+The Security Support Information System includes four interactive Power BI dashboards designed to provide visibility into different areas of private security business performance.
 
 ## SSIS Dashboards
 
 ### Executive Overview Dashboard
-![Executive Overview](./SSIS%20overview.png)
+
+![Executive Overview](./ssis.Overview.png)
 
 ### Workforce Analytics Dashboard
-![Workforce Analytics](./SSIS%20workforce.png)
+
+![Workforce Analytics](./ssis.Workforce.png)
 
 ### Operations Analytics Dashboard
-![Operations Analytics](./SSIS%20operations.png)
+
+![Operations Analytics](./ssis.Operations.png)
 
 ### Commercial Analytics Dashboard
-![Commercial Analytics](./SSIS%20commercial.png)
+
+![Commercial Analytics](./ssis.Commercial.png)
+
 ---
 
 # Project Outcome
@@ -176,4 +185,3 @@ The Security Support Information System demonstrates how raw operational data ca
 The project showcases the complete analytics lifecycle, from raw data acquisition and transformation through database development to interactive dashboard reporting.
 
 ---
-
